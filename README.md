@@ -122,7 +122,8 @@ retail-customer-uplift-analytics/
 ## 8. Project Status
 
 - [x] Repository and project structure created
-- [ ] Raw data downloaded and validated
+- [x] Raw data downloaded; initial structural and quality checks documented
+- [ ] Open field definitions, experiment design and historical feature timing confirmed
 - [ ] SQL analytical tables constructed
 - [ ] Customer and transaction analysis completed
 - [ ] A/B test evaluated
